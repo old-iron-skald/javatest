@@ -1,1 +1,1 @@
-[![GitHub Actions Demo](https://github.com/old-iron-skald/javatest/actions/workflows/firstblank.yml/badge.svg?branch=main&event=push)](https://github.com/old-iron-skald/javatest/actions/workflows/firstblank.yml)
+# Github Action. Continuous Integration
